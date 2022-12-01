@@ -3,9 +3,6 @@ import java.awt.*;
 /**
  * Animated blob, defined by a position and size, 
  * and the ability to step (move/grow), draw itself, and see if a point is inside.
- * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Spring 2016, based on animated agents from previous terms
- * @author CBK, Fall 2016, implements Point2D
  */
 
 public class Blob implements Point2D {
