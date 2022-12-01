@@ -7,9 +7,6 @@ import javax.swing.*;
  * Driver for interacting with a quadtree:
  * inserting points, viewing the tree, and finding points near a mouse press
  *
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Spring 2015
- * @author CBK, Spring 2016, updated for dots
- * @author CBK, Fall 2016, generics, dots, extended testing
  * @author Nicolas Schaievitch
  * @author Shaamil Shaw Alem
  */
