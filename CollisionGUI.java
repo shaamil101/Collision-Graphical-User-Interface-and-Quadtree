@@ -12,9 +12,6 @@ import java.util.TreeSet;
 /**
  * Using a quadtree for collision detection
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Spring 2015
- * @author CBK, Spring 2016, updated for blobs
- * @author CBK, Fall 2016, using generic PointQuadtree
  * @author Nicolas Schaievitch
  *  @author Shaamil Shaw Alem
  */
